@@ -1,0 +1,22 @@
+main{
+    font-size: 20px;
+}
+
+.barra {
+    height: 80px;
+    background-color: blueviolet;
+}
+
+.barra li{
+    display: inline-block;
+    background-color: azure;
+    list-style: none;
+    color: blue;
+    
+    
+}
+
+li{
+    color: brown;
+    font-size: medium;
+}
